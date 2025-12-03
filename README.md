@@ -168,7 +168,7 @@ Do **not** install a GUI for a clean server setup.
 ### **19. Install GRUB**
 Install GRUB on the main hard drive (usually `/dev/sda` or `/dev/nvme0n1`).
 
-![Install Grub](images/install_grub.png)
+![Install Grub](images/install_grub_1.png)
 
 ![Install Grub](images/install_grub_2.png)
 
